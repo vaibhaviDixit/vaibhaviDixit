@@ -7,6 +7,7 @@ With a passion for crafting seamless user experiences and building robust backen
 - **Languages:** JavaScript, Python, SQL, C, CPP, JAVA
 - **Frontend:** React, HTML, CSS
 - **Backend:** Node.js, PHP
+- **Frameworks:** Django, React 
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, AWS
 
